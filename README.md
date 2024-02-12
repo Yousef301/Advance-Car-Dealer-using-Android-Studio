@@ -52,3 +52,6 @@ A car dealer has requested you to develop an Android application that enables us
    - **Enhanced Filtering:** Filter cars based on additional criteria.
    - **User Reviews and Ratings:** Implement a system for reviews and ratings.
    - **Push Notifications:** Notify users about special offers, promotions, or updates.
+
+## **Images of from the App**
+
