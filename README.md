@@ -59,7 +59,7 @@ A car dealer has requested you to develop an Android application that enables us
    - **Push Notifications:** Notify users about special offers, promotions, or updates.
 
 ## **Images from the App**
-   In this section, you can see some images from the app. For more, check the 'Images' folder.
+   Here are some images from the app. For more, please check the 'Images' folder.
    
    ![](images/connect_page.png)
    ![](images/login_page.png)
