@@ -11,3 +11,15 @@ Project description: A car dealer has requested you to develop an Android applic
     
    2.1 In the main page (first page), the customer can enter their email and password, which are registered in the database so that if the email and password match the ones in the database the user can log into a special menu.
    This layout must have a checkbox labeled "Remember Me," which will save the email in shared preferences. This way, the next time users log in, they won't need to re-enter their email.
+
+   2.2 The "Sign-Up" button for new users will redirect us to another layout where we will enter our email (must be an email) as a primary key, which contains the following:
+   * First name (not less than 3 characters).
+   * Last name (not less than 3 characters).
+   * Gender (spinner).
+   * Password (must not be less than 5 characters and must include at least 1 character, 1 number, and one special character).
+   * Confirm password (the passwords should match each other and should be encrypted using a secure Hash Function).
+   * Country (spinner with no less than 4 countries).
+   * City (spinner with no less than 3 cities for each country).
+   * One phone number (must have pre zip code (area code)). Eg. Palestine (00970), Jordan (00962), Syria (00963) …etc. *this must be changeable according to the country, NOT by the user.
+
+   If all the previous conditions are entered correctly, then and only then we can register.
