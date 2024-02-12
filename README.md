@@ -15,6 +15,11 @@ A car dealer has requested you to develop an Android application that enables us
    - **Login:** Users can enter their email and password, which are registered in the database. If the credentials match, they can log in.
    - **Sign-Up:** New users can register with their email, providing various details as outlined in the sign-up page.
 
+   The following image shows how the data should look in the mock API. If the mock API is down, try uploading the data from 'data.json' to it.
+
+   ![](images/data_in_api.png)
+
+
 ## **3- Home Layout (Sign in as Normal Customer)**
    This layout should be a Navigation Drawer Activity containing a summary of the car dealer's history on its main page.
 
