@@ -54,4 +54,6 @@ A car dealer has requested you to develop an Android application that enables us
    - **Push Notifications:** Notify users about special offers, promotions, or updates.
 
 ## **Images from the App**
+   ![](image/connect_page.png)
+   ![](image/login_page.png)         ![](image/login_page.png)
 
